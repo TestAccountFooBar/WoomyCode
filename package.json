@@ -1,0 +1,24 @@
+{
+    "name": "woomy-arras",
+    "version": "v0.0.1",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "compression": "^1.7.4",
+        "cors": "latest",
+        "eris": "0.16.1",
+        "express": "latest",
+        "express-minify": "latest",
+        "express-ws": "latest",
+        "forwarded-for": "latest",
+        "google-closure-library": "^20220502.0.0",
+        "node-fetch": "^2.6.7",
+        "uglify-js": "latest",
+        "ws": "latest"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}

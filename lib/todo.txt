@@ -1,0 +1,3 @@
+Remove "servers" from window
+Main-menu animations
+Set up a mutation observer

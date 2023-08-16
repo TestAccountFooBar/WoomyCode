@@ -1,0 +1,20 @@
+{
+    "MODE": "tdm",
+    "serverName": "Boss Rush",
+    "TEAM_AMOUNT": 1,
+    "ROOM_SETUP": [
+        ["rock", "norm", "norm", "rock", "norm", "norm", "rock"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "roid", "nest", "roid", "norm", "norm"],
+        ["rock", "norm", "nest", "nest", "nest", "norm", "rock"],
+        ["norm", "norm", "roid", "nest", "roid", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["rock", "norm", "norm", "rock", "norm", "norm", "rock"]
+    ],
+    "X_GRID": 7,
+    "Y_GRID": 7,
+    "WIDTH": 5500,
+    "HEIGHT": 5500,
+    "BOTS": 12,
+    "DO_BASE_DAMAGE": false
+}
